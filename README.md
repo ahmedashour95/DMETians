@@ -13,6 +13,8 @@ This repo contains details about each team member.
 | Name         | ID      |
 | ------------ | ------- |
 | Hadeel Abbas | 31-5586 |
+| ------------ | ------- |
+| Youstina Melek | 31-2363 |
 
 
 
@@ -22,5 +24,5 @@ This repo contains details about each team member.
 * **Sandra Sameh**- Like watching friends, gym, talking with people.
 * **Mary Hany**- Cooking and meeting new people.
 * **Monica Bassem**- scout leader, cultures explorer.
-* **Youstina Samir** - Long walks, art and dogs.
+* **Youstina Melek** - Long walks, art and dogs.
 * **Hadeel Abbas** - Like watching Anime and Asian dramas
