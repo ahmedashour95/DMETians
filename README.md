@@ -8,6 +8,13 @@ Sprint 0
 This repo contains details about each team member.
 
 
+## Authors
+
+| Name         | ID      |
+| ------------ | ------- |
+| Hadeel Abbas | 31-5586 |
+
+
 
 ## About
 
@@ -16,3 +23,4 @@ This repo contains details about each team member.
 * **Mary Hany**- Cooking and meeting new people.
 * **Monica Bassem**- scout leader, cultures explorer.
 * **Youstina Samir** - Long walks, art and dogs.
+* **Hadeel Abbas** - Like watching Anime and Asian dramas
