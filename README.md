@@ -11,7 +11,7 @@ This repo contains details about each team member.
 
 ## About
 * **Nagham Ashraf** - Cross fit athlete.
-* **Amr Attia**- Attia Sarcasm (Arwash Wa7ed fel tut)
+* **Amr Attia**- 31-12272 - Attia Sarcasm (Arwash Wa7ed fel tut)
 * **Omar shalaby**- Conscious observing being.
 * **Ahmed Ashour** 31-7631 - Elnazer
 * **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
