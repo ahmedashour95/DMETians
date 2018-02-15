@@ -13,7 +13,6 @@ This repo contains details about each team member.
 | Name         | ID      |
 | ------------ | ------- |
 | Hadeel Abbas | 31-5586 |
-| ------------ | ------- |
 | Youstina Melek | 31-2363 |
 
 
