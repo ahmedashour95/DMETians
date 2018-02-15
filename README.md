@@ -1,3 +1,4 @@
+![](logo.jpg)
 # Project Title
 
 Sprint 0
