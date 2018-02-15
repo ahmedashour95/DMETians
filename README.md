@@ -14,4 +14,4 @@ This repo contains details about each team member.
 * **Amr Attia**- Attia Sarcasm (Arwash Wa7ed fel tut)
 * **Omar shalaby**- Conscious observing being.
 * **Ahmed Ashour**- Elnazer
-* **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan.
+* **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
