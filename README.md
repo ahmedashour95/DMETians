@@ -15,7 +15,7 @@ This repo contains details about each team member.
 | Hadeel Abbas | 31-5586 |
 | Youstina Melek | 31-2363 |
 | Merna Maklad | 31-3000 |
-
+| Sandra Iskander| 31-0657 |
 
 
 ## About
