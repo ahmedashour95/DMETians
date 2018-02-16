@@ -14,6 +14,6 @@ This repo contains details about each team member.
 * **Amr Attia**- 31-12272 - Attia Sarcasm (Arwash Wa7ed fel tut)
 * **Omar shalaby**- Conscious observing being.
 * **Ahmed Ashour** 31-7631 - Elnazer
-* **Zyad Zakaria**- 31-935 Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
+* **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
 
 wa shokran :bowtie:
