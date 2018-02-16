@@ -18,6 +18,6 @@ This repo contains details about each team member.
 * **Mary Hany**- Cooking and meeting new people.
 * **Nagham Ashraf** - Cross fit athlete.
 * **Amr Attia**- Arwash wa7ed fel tutorial.
-* **Omar shalaby**- Conscious observing being.
+* **Omar shalaby**- Conscious observing being. Creating a horror game. Twitter:omareh02.
 * **Ahmed Ashour**- Favourite food: macarona bashamel, harry potter and friends fan.
 * **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan.
