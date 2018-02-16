@@ -10,10 +10,14 @@ This repo contains details about each team member.
 
 
 ## About
+* **Hadeel Abbas** - Like watching Anime and Asian dramas.
+* **Merna Yasser** - Reading, cooking, riding bikes.
+* **Youstina Samir** - Long walks, art and dogs.
+* **Sandra Sameh**- Like watching friends, gym, talking with people.
+* **Monica Bassem**- scout leader, cultures explorer.
+* **Mary Hany**- Cooking and meeting new people.
 * **Nagham Ashraf** - Cross fit athlete.
-* **Amr Attia**- 31-12272 - Attia Sarcasm (Arwash Wa7ed fel tut)
-* **Omar shalaby**- Conscious observing being.
-* **Ahmed Ashour** 31-7631 - Elnazer
-* **Zyad Zakaria**- 31-935 Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
-
-wa shokran :bowtie:
+* **Amr Attia**- Arwash wa7ed fel tutorial.
+* **Omar shalaby**- Conscious observing being of games, film, art and people. Creating a horror game. Twiter: @omareh02.
+* **Ahmed Ashour**- Favourite food: macarona bashamel, harry potter and friends fan.
+* **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan.
