@@ -16,7 +16,7 @@ This repo contains details about each team member.
 | Youstina Melek | 31-2363 |
 | Merna Maklad | 31-3000 |
 | Sandra Iskander| 31-0657 |
-
+| Monica Bassem| 31-1542 |
 
 ## About
 
