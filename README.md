@@ -17,6 +17,7 @@ This repo contains details about each team member.
 | Merna Maklad | 31-3000 |
 | Sandra Iskander| 31-0657 |
 | Monica Bassem| 31-1542 |
+| Mary Hany | 31-2403 |
 
 ## About
 
